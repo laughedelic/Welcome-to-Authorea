@@ -1,3 +1,3 @@
 # Found bugs
 
-- Leaving some section empty results in an e
+- Leaving some section empty results in an erro
