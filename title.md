@@ -1,1 +1,1 @@
-Authorea questions and fea
+Authorea questions and feature
