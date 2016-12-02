@@ -1,1 +1,1 @@
-Authorea questions and feature-
+Authorea questions and feature-requests
