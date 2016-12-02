@@ -1,3 +1,3 @@
 # Found bugs
 
-- Leaving some section empty results in an error messa
+- Leaving some section empty results in an error message
