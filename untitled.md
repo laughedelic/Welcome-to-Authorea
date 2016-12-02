@@ -1,3 +1,3 @@
 # Found bugs
 
-- Leaving some section free
+- Leaving some section 
