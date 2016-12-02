@@ -1,1 +1,0 @@
-Citing other papers is easy. Voilà: \cite{2012} or \cite{Holstein_2009}. Click on the <code>cite</code> button in the toolbar to search articles and cite them. Authorea also comes with a powerful commenting system. Don't agree that \(E  =  mc^{3}\)?!? Highlight the text 
