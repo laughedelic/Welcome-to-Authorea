@@ -9,3 +9,4 @@
 - Web-interface for managing the document structure would be nice, but not essential, from my point of view. Much more important would be a flexible convention upon the structure of the underlying repository: `layout.md`, `title.md`, `bibliography/`, etc.
   + First it would be better to have _special_ files somehow distinguished from the "user-produced", e.g. `_layout.md` or `.layout.md`, same for `title.md` and the assets subfolders
   + Naming paragraph files randomly is not very user-friendly. The whole concept of file-per-paragraph is quite strange, although technically understandable. Looking at Authorea from another side, I would prefer to manage my files/parts of the master-article by myself (and probably store them in some nested folder structure) and then assemble them with some `layout` mechanism (which currently also doesn't look extremely flexible).
+  
