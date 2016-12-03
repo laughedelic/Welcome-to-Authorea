@@ -1,6 +1,6 @@
 I'm trying out Authorea service for collaborative writing. It looks quite promising:
 
-- Markdown editing with feature-rich web-editor
+- Markdown editing with feature-rich web-editor (Pandoc + MathJax)
 - Overall academic writing focus
 - Github integration
 - Commenting on the document (discussion/supervision)

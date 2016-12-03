@@ -1,5 +1,7 @@
 # Found bugs
 
+These bugs are mostly related to the new (beta) editor.
+
 - Leaving some section empty results in an error message:  
   ![](figures/empty-paragraph-bug.png)  
 - Usual markdown syntax `![](...)` for inserting local pictures doesn't work (see above)
