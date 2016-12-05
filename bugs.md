@@ -4,6 +4,7 @@ General issues:
 
 - Inline code rendering is funky: the box is too high, getting off the line
 - Usual markdown syntax `![](...)` for inserting local pictures doesn't work (see below)
+- Math formulas are not rendered properly: sometimes they are, sometimes not. I'm not sure what's the pattern. Sometime changing `$...$` to `\(...\)` and `$$...$$` to `\[...\]` helps, sometimes not. (Plus I think the problem may be in the use of unicode symbols in formulas.
 
 Related to the new (beta) editor:
 
