@@ -1,5 +1,12 @@
 # Questions
 
+I generally see Authorea as a medium for collaborative writing. I know that there's much more with publishing, but for it's still a bit far away to be concerned about.
+
+Personally, I prefer to use a local setup with my customized editor, Pandoc for generating output, Git with meaningful commit messages, etc. And I want to use Authorea as an interface to be used by other coauthors (my supervisors or colleagues) that don't want or don't need to use git/command line directly: for reviewing, **commenting**, minor fixes and additions that can be easily done through the web-editor _"in-place"_.
+
+So it's important for me to understand how I can write locally, but in a way that won't break the appearance of the article on the web-side exposed to other coauthors.
+
+
 ## Folders structure and special files
 
 What I haven't found in the [docs](https://www.authorea.com/users/77723) is the way Authorea manages the git repo and processes the special files:
