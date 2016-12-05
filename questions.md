@@ -29,6 +29,8 @@ What I haven't found in the [docs](https://www.authorea.com/users/77723) is the 
 - Is there a way to use XeTeX engine for being able to use Unicode everywhere?
 - Is there any way to setup a custom build script for generating the document? I expect no in general, because it would be a security vulnerability, but probably some kind of [TavisCI-like config](https://docs.travis-ci.com/user/customizing-the-build) is used internally and could be exposed to the user.
 
+Update: it appears that the solution to the above already exists, it's called [panzer](https://github.com/msprev/panzer#panzer): a wrapper for Pandoc with YAML config to handle any Pandoc options and pre/post-processing. 
+
 
 ## Diagrams
 
