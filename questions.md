@@ -34,6 +34,8 @@ Update: it appears that there are various solutions to what I described above (w
 - [pandocomatic](https://github.com/htdebeer/pandocomatic) (ruby)
 - [pdc](https://github.com/bk/pdc) (perl)
 
+And probably [more](https://github.com/jgm/pandoc/wiki/Pandoc-wrappers-and-interfaces).
+
 
 ## Diagrams
 
